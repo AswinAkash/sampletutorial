@@ -1,2 +1,2 @@
-#MyApp
+#myApp
 my repo broo
